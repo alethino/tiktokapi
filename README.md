@@ -3,6 +3,11 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 
 # TikTok Private API
 
+### contact me
+**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
+## telegram: @Neo_Galaxy
+
+
 # Tiktok (Source Code)
 * Private API
 * X-Gorgon
