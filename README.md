@@ -4,8 +4,8 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 # TikTok Private API
 
 ### contact me
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @Neo_Galaxy
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
+## telegram: @alethino
 
 # Tiktok (Source Code)
 * Private API
@@ -42,9 +42,9 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 22. create accounts
 
 ### contact me
-## Contact Telegram [@Neo_Galaxy] 
-https://t.me/Neo_Galaxy
+## Contact Telegram [@alethino] 
+https://t.me/alethino
 
 ### contact me
-## Contact Telegram @Neo_Galaxy
-https://t.me/Neo_Galaxy
+## Contact Telegram @alethino
+https://t.me/alethino
